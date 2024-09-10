@@ -81,17 +81,28 @@ if __name__ == "__main__":
 4) Descubra a lógica e complete o próximo elemento:
 
 a) 1, 3, 5, 7, **9**
--> Números impares, *n+1*
+
+→ Números impares, *n+1*
+
 b) 2, 4, 8, 16, 32, 64, **128**
--> Número anterior vezes 2
+
+→ Número anterior vezes 2
+
 c) 0, 1, 4, 9, 16, 25, 36, **49**
--> Números ao quadrado, *n²*
+
+→ Números ao quadrado, *n²*
+
 d) 4, 16, 36, 64, **100**
--> Números pares ao quadrado
+
+→ Números pares ao quadrado
+
 e) 1, 1, 2, 3, 5, 8, **13**
--> Sequência de Fibonacci
+
+→ Sequência de Fibonacci
+
 f) 2,10, 12, 16, 17, 18, 19, **200**
--> Números que começam com a letra 'd'
+
+→ Números que começam com a letra 'd'
 
 5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. 
 Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas 
